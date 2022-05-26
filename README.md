@@ -6,4 +6,4 @@ The bounce property indicates if the component will bounce back when gravity mak
 - CSS
 - JS
 
-#### [Live]
+#### [Live](https://artanmerko.github.io/bouncing-balls/)
